@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+// reset styles
+* {
+	color: inherit;
+	margin: 0;
+}
+
+body {
+	font-family: Poppins;
+}
+
+ul {
+	padding: 0;
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+hr {
+	border: 0;
+	border-top: 1px dotted #efefef;
+}
+
+img {
+	max-width: 100%;
+}
