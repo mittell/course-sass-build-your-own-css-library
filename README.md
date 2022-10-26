@@ -8,11 +8,13 @@ Clone this repo, and make sure to run the commands mentioned below from your ter
 
 ### Prerequisites
 
-Make sure Dart Sass is installed - [Link](https://sass-lang.com/install)
+Make sure Node is installed and run following command:
 
-Run the following to compile .sass files to .css:
+    npm install
 
-    sass src/sass/index.sass src/css/index.css
+Run Gulp to compile .scss files to .css:
+
+    gulp
 
 ## Contact
 
