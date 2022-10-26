@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import './variables.scss';
 
 // reset styles
-
 * {
 	color: inherit;
 	margin: 0;
@@ -28,25 +28,6 @@ hr {
 img {
 	max-width: 100%;
 }
-
-// theme colours
-
-$primary: #326dee;
-$secondary: #1ac886;
-$error: #d32752;
-$info: #f6c31c;
-
-// spacing
-
-$base-padding: 0.75rem;
-$base-margin: 0.75rem;
-
-// borders
-
-$base-border-thickness: 1px;
-$base-border-radius: 20px;
-
-// ---
 
 h1 {
 	color: $primary;
