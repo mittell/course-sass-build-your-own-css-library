@@ -1,0 +1,6 @@
+@function light-comp($colour) {
+	$complement: complement($colour);
+	$light-complement: lighten($complement, 30%);
+
+	@return $light-complement;
+}
