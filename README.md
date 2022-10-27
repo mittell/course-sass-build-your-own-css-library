@@ -1,6 +1,6 @@
 # SASS Build Your Own CSS Library
 
-Repo for course - SASS Build Your Own CSS Library by Net Ninja.
+Repo for course - SASS Build Your Own CSS Library by The Net Ninja.
 
 ## Getting Started
 
